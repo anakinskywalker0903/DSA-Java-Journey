@@ -1,11 +1,4 @@
 
----
-
-# Repository README
-
-Your main README can look like this:
-
-```md
 # A2Z DSA in Java
 
 This repository documents my journey through the A2Z DSA roadmap using Java.
